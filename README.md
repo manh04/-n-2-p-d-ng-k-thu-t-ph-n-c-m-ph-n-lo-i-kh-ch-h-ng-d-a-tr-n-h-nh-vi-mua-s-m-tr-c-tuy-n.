@@ -1,1 +1,1 @@
-# -n-2-p-d-ng-k-thu-t-ph-n-c-m-ph-n-lo-i-kh-ch-h-ng-d-a-tr-n-h-nh-vi-mua-s-m-tr-c-tuy-n.
+#Áp dụng kỹ thuật phân cụm để phân loại khách hàng dựa trên hành vi mua sắm trực tuyến.
